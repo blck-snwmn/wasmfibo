@@ -1,0 +1,2 @@
+# wasmfibo
+calc fibonacci 
